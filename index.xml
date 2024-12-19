@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gattaga-test-blog</title>
+    <link>https://gattagatestblog.github.io/</link>
+    <description>Recent content on gattaga-test-blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Test copyright - update</copyright>
+    <lastBuildDate>Thu, 19 Dec 2024 14:10:27 +0530</lastBuildDate>
+    <atom:link href="https://gattagatestblog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second</title>
+      <link>https://gattagatestblog.github.io/posts/second/</link>
+      <pubDate>Thu, 19 Dec 2024 14:10:27 +0530</pubDate>
+      <guid>https://gattagatestblog.github.io/posts/second/</guid>
+      <description>&lt;p&gt;Second post&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://gattagatestblog.github.io/about/</link>
+      <pubDate>Thu, 19 Dec 2024 13:57:38 +0530</pubDate>
+      <guid>https://gattagatestblog.github.io/about/</guid>
+      <description>&lt;p&gt;Test about page&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>https://gattagatestblog.github.io/posts/first/</link>
+      <pubDate>Thu, 19 Dec 2024 13:37:03 +0530</pubDate>
+      <guid>https://gattagatestblog.github.io/posts/first/</guid>
+      <description>&lt;p&gt;&#xA;&lt;/p&gt;&lt;p&gt;&#xA;&lt;/p&gt;&lt;p&gt;&#xA;&lt;/p&gt;&lt;p&gt;&#xA;&lt;/p&gt;&lt;p&gt;&#xA;&lt;/p&gt;&#xA;&lt;h1 id=&#34;markdown-syntax&#34;&gt;Markdown: Syntax&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#overview&#34;&gt;Overview&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#philosophy&#34;&gt;Philosophy&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#html&#34;&gt;Inline HTML&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#autoescape&#34;&gt;Automatic Escaping for Special Characters&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#block&#34;&gt;Block Elements&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#p&#34;&gt;Paragraphs and Line Breaks&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#header&#34;&gt;Headers&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#blockquote&#34;&gt;Blockquotes&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#list&#34;&gt;Lists&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#precode&#34;&gt;Code Blocks&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#hr&#34;&gt;Horizontal Rules&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#span&#34;&gt;Span Elements&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#link&#34;&gt;Links&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#em&#34;&gt;Emphasis&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#code&#34;&gt;Code&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#img&#34;&gt;Images&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#misc&#34;&gt;Miscellaneous&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#backslash&#34;&gt;Backslash Escapes&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#autolink&#34;&gt;Automatic Links&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This document is itself written using Markdown; you&#xA;can &lt;a href=&#34;https://gattagatestblog.github.io/projects/markdown/syntax.text&#34;&gt;see the source for it by adding &amp;lsquo;.text&amp;rsquo; to the URL&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;h3 id=&#34;philosophy&#34;&gt;Philosophy&lt;/h3&gt;&#xA;&lt;p&gt;Markdown is intended to be as easy-to-read and easy-to-write as is feasible.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
